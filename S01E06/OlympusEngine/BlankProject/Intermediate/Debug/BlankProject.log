@@ -1,0 +1,9 @@
+﻿  BlankProject.cpp
+A:\OlympusMons\S01E06\OlympusEngine\Olympus\Source\Platform\Win32\SubObject.h(21,13): warning C4251: 'Win32::SubObject::m_Class': class 'std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>' needs to have dll-interface to be used by clients of class 'Win32::SubObject'
+C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.31.30818\include\xstring(4923): message : see declaration of 'std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>'
+A:\OlympusMons\S01E06\OlympusEngine\Olympus\Source\Platform\Win32\SubObject.h(22,13): warning C4251: 'Win32::SubObject::m_Title': class 'std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>' needs to have dll-interface to be used by clients of class 'Win32::SubObject'
+C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.31.30818\include\xstring(4923): message : see declaration of 'std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>'
+A:\OlympusMons\S01E06\OlympusEngine\Olympus\Source\Platform\Win32\Window.h(10,76): warning C4275: non dll-interface class 'Win32::Caption' used as base for dll-interface class 'Win32::Window'
+A:\OlympusMons\S01E06\OlympusEngine\Olympus\Source\Platform\Win32\w32Caption.h(8): message : see declaration of 'Win32::Caption'
+A:\OlympusMons\S01E06\OlympusEngine\Olympus\Source\Platform\Win32\Window.h(10): message : see declaration of 'Win32::Window'
+  BlankProject.vcxproj -> A:\OlympusMons\S01E06\OlympusEngine\Build\Debug\BlankProject.exe

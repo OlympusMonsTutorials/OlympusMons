@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30803.129
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BlankProject", "BlankProject\BlankProject.vcxproj", "{F0D52353-2E68-4997-BD63-751EDA7404AD}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Olympus", "Olympus\Olympus.vcxproj", "{350DA077-E394-4ED0-933C-4295D181705E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0D52353-2E68-4997-BD63-751EDA7404AD}.Debug|x64.ActiveCfg = Debug|x64
+		{F0D52353-2E68-4997-BD63-751EDA7404AD}.Debug|x64.Build.0 = Debug|x64
+		{F0D52353-2E68-4997-BD63-751EDA7404AD}.Release|x64.ActiveCfg = Release|x64
+		{F0D52353-2E68-4997-BD63-751EDA7404AD}.Release|x64.Build.0 = Release|x64
+		{350DA077-E394-4ED0-933C-4295D181705E}.Debug|x64.ActiveCfg = Debug|x64
+		{350DA077-E394-4ED0-933C-4295D181705E}.Debug|x64.Build.0 = Debug|x64
+		{350DA077-E394-4ED0-933C-4295D181705E}.Release|x64.ActiveCfg = Release|x64
+		{350DA077-E394-4ED0-933C-4295D181705E}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10CE5944-3D4E-4ADE-B02D-D1B1A109F217}
+	EndGlobalSection
+EndGlobal
